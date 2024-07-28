@@ -1,0 +1,21 @@
+{
+    "name": "Ballistic.Localization.Editor",
+    "rootNamespace": "Ballistic.Localization.Editor",
+    "references": [
+        "GUID:9e24947de15b9834991c9d8411ea37cf",
+        "GUID:aba660584050ef741b3569c76971d2c7",
+        "GUID:84651a3751eca9349aac36a66bba901b",
+        "GUID:69448af7b92c7f342b298e06a37122aa"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_EDITOR"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
